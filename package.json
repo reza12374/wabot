@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reza12374/botwa"
+    "url": "git+https://github.com/reza12374/wabot"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/reza12374/botwa/issues"
+    "url": "https://github.com/reza12374/wabot/issues"
   },
-  "homepage": "https://github.com/reza12374/botwa#readme"
+  "homepage": "https://github.com/reza12374/wabot#readme"
 }
